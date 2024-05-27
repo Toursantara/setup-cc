@@ -2,5 +2,5 @@
 
 Setup Include :
 - Billing Documentation
-- Cloud Architechture
+- Cloud Architecture
 - Database ERD
